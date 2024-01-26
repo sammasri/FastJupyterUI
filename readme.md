@@ -1,3 +1,2 @@
 # Fast Colab App UI 
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+[GitHub-flavored Markdow Guide](https://guides.github.com/features/mastering-markdown/)
