@@ -1,5 +1,4 @@
-# Fast Colab App UI 
+# Fast Jupyter UI 
 
-A module that produces an ipywidget app, with several layout options.
+A module that produces a styled UI with Jupyter widgets (ipywidget), with several layout options.
 
-[GitHub-flavored Markdow Guide](https://guides.github.com/features/mastering-markdown/)
